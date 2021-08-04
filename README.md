@@ -88,7 +88,7 @@
 All Swift UI Libraries are released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
-If you our open-source libraries in your project, please make sure to credit us and Give a star to www.mindinventorycom
+If you use our open-source libraries in your project, please make sure to credit us and Give a star to www.mindinventorycom
 
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="203" height="43"  alt="app development">
