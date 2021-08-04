@@ -47,17 +47,6 @@
 <br></br>
 
 
-<a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
-<img align="right" src="https://github.com/Sammindinventory/MindInventory/blob/20ab48c476b693bb04a3df02ff93ad7cd2992b29/Podcast%20App%20Animation.gif" width="480" height="360" /></a>
-<p><h1 align="right"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">MI Field Validator</a></h1></p>
-<h4>Field Validator is one of the smart class for validating fields in a single line of code. It's a very smart code saver class to validate name, password, DOB, Change password, email, phone number and many more.</h4>
-<p><h6>Stay tuned for the latest updates:</h6>
-<a href="https://github.com/PareshSolankiMI" >
-<img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
-<h4><a href="https://github.com/Mindinventory/MIFieldValidator#methods--11">⚙️ Methods →</a></h4>
-<h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
-<br></br>
-
 ## 📱 Check out other lists of our Mobile UI libraries
 
 <a href="https://github.com/Mindinventory?language=kotlin"> 
@@ -90,6 +79,8 @@
 <a href="https://dribbble.com/mindinventory"> 
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> </a>
 
+<br></br>
+
 
 ## 📄 License
 
@@ -101,6 +92,3 @@ If you our open-source libraries in your project, please make sure to credit us 
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="203" height="43"  alt="app development">
 </a>
-
-
-<a href="https://www.mindinventory.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pratikmi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikmi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
