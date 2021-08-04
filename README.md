@@ -10,9 +10,9 @@
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="203" height="43"  alt="app development"></a></p>
 <br>
 
-<a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
+<a href="https://github.com/Mindinventory/Letters-Animation">
 <img align="left" src="https://github.com/nikunjprajapati95/Letters-Animation/blob/main/Media/Letters.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">SWIFT Alphabet Animation</a></h1></p>
+<p><h1 align="left"><a href="https://github.com/Mindinventory/Letters-Animation">SWIFT Alphabet Animation</a></h1></p>
 <h4>Letters animation allows you to click on different letters and accrodingly it will animate letters in a creative way.Please feel to use and leave a ⭐</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
@@ -22,9 +22,9 @@
 <br></br>
 
 
-<a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
+<a href="https://github.com/Mindinventory/Numbers-Animation">
 <img align="right" src="https://github.com/nikunjprajapati95/Numbers-Animation/blob/8e39a88a22bde7b40303efdacc58b0e60af00773/Media/Numbers.gif" width="480" height="360" /></a>
-<p><h1 align="Left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">SWIFT Numeric Animation</a></h1></p>
+<p><h1 align="Left"><a href="https://github.com/Mindinventory/Numbers-Animation">SWIFT Numeric Animation</a></h1></p>
 <h4>Numbers animation allows you to click on different numbers and accordingly it will animate numbers in a beautiful way. Please feel to use and leave a ⭐.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
@@ -35,9 +35,9 @@
 
 
 
-<a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
+<a href="https://github.com/Mindinventory/Reading-Animation">
 <img align="left" src="https://github.com/Mindinventory/Reading-Animation/blob/main/Media/Reading.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">Audiobook Reader Animation</a></h1></p>
+<p><h1 align="left"><a href="https://github.com/Mindinventory/Reading-Animation">Audiobook Reader Animation</a></h1></p>
 <h4>Reading animation allows you to click on the different page numbers and accordingly it will animate page changes. Please feel to use and leave a ⭐ </h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
