@@ -13,7 +13,7 @@
 <a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
 <img align="left" src="https://github.com/nikunjprajapati95/Letters-Animation/blob/main/Media/Letters.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">SWIFT Alphabet Animation</a></h1></p>
-<h4>Letters animation allows you to click on different letters and accrodingly it will animate letters in a creative way.</h4>
+<h4>Letters animation allows you to click on different letters and accrodingly it will animate letters in a creative way.Please feel to use and leave a ⭐</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
 <img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
@@ -36,9 +36,9 @@
 
 
 <a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
-<img align="left" src="https://github.com/Sammindinventory/MindInventory/blob/20ab48c476b693bb04a3df02ff93ad7cd2992b29/Podcast%20App%20Animation.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">MI Field Validator</a></h1></p>
-<h4>Field Validator is one of the smart class for validating fields in a single line of code. It's a very smart code saver class to validate name, password, DOB, Change password, email, phone number and many more.</h4>
+<img align="left" src="https://github.com/Mindinventory/Reading-Animation/blob/main/Media/Reading.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">Audiobook Reader Animation</a></h1></p>
+<h4>Reading animation allows you to click on the different page numbers and accordingly it will animate page changes. Please feel to use and leave a ⭐ </h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
 <img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
