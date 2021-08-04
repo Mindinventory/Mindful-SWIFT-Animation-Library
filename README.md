@@ -15,10 +15,9 @@
 <p><h1 align="left"><a href="https://github.com/Mindinventory/Letters-Animation">SWIFT Alphabet Animation</a></h1></p>
 <h4>Letters animation allows you to click on different letters and accrodingly it will animate letters in a creative way.Please feel to use and leave a ⭐</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
-<a href="https://github.com/PareshSolankiMI" >
-<img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
-<h4><a href="https://github.com/Mindinventory/MIFieldValidator#methods--11">⚙️ Methods →</a></h4>
-<h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
+<a href="https://medium.com/mindful-engineering" >
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></p>
+<h4><a href="https://github.com/Mindinventory/Letters-Animation">⚙️ See in Detail →</a></h4>
 <br></br>
 
 
@@ -27,10 +26,9 @@
 <p><h1 align="Left"><a href="https://github.com/Mindinventory/Numbers-Animation">SWIFT Numeric Animation</a></h1></p>
 <h4>Numbers animation allows you to click on different numbers and accordingly it will animate numbers in a beautiful way. Please feel to use and leave a ⭐.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
-<a href="https://github.com/PareshSolankiMI" >
-<img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
-<h4><a href="https://github.com/nikunjprajapati95/Numbers-Animation#description">⚙️ Description →</a></h4>
-<h4><a href="https://github.com/nikunjprajapati95/Numbers-Animation#requirement">☑️ Requirements →</a></h4>
+<a href="https://medium.com/mindful-engineering" >
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></p>
+<h4><a href="https://github.com/Mindinventory/Numbers-Animation">⚙️ See in Detail →</a></h4>
 <br></br>
 
 
@@ -40,10 +38,9 @@
 <p><h1 align="left"><a href="https://github.com/Mindinventory/Reading-Animation">Audiobook Reader Animation</a></h1></p>
 <h4>Reading animation allows you to click on the different page numbers and accordingly it will animate page changes. Please feel to use and leave a ⭐ </h4>
 <p><h6>Stay tuned for the latest updates:</h6>
-<a href="https://github.com/PareshSolankiMI" >
-<img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
-<h4><a href="https://github.com/Mindinventory/MIFieldValidator#methods--11">⚙️ Methods →</a></h4>
-<h4><a href="https://github.com/Mindinventory/MIFieldValidator#key-features--use">☑️ Key features & Use →</a></h4>
+<a href="https://medium.com/mindful-engineering" >
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></p>
+<h4><a href="https://github.com/Mindinventory/Reading-Animation">⚙️ See in Detail →</a></h4>
 <br></br>
 
 
@@ -57,6 +54,10 @@
 
 <a href="https://github.com/Mindinventory?language=dart"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> </a>
+
+
+<a href="https://github.com/Mindinventory/react-native-tabbar-interaction"> 
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </a>
 
 <br></br>
 
