@@ -24,8 +24,8 @@
 
 <a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">
 <img align="right" src="https://github.com/nikunjprajapati95/Numbers-Animation/blob/8e39a88a22bde7b40303efdacc58b0e60af00773/Media/Numbers.gif" width="480" height="360" /></a>
-<p><h1 align="right"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">SWIFT Animation Numbers</a></h1></p>
-<h4>One of the Finest SWFIT Animation from a client project that we created for Educational Purpose. Please feel to use and leave a ⭐.</h4>
+<p><h1 align="Left"><a href="https://github.com/Mindinventory/MIFieldValidator>MIFieldValidator">SWIFT Numeric Animation</a></h1></p>
+<h4>Numbers animation allows you to click on different numbers and accordingly it will animate numbers in a beautiful way. Please feel to use and leave a ⭐.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://github.com/PareshSolankiMI" >
 <img src="https://github.com/Sammindinventory/MindInventory/blob/36c4fdd7c17d113d796be251630f3fe0e7387304/Group%202.png" width="156" height="28"></a></p>
